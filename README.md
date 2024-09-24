@@ -1,4 +1,4 @@
-![HEROgold's Stats](https://github-readme-stats.vercel.app/api?username=HEROgold&theme=default&show_icons=true&hide_border=false&count_private=true
+![HEROgold's Stats](https://github-readme-stats.vercel.app/api?username=HEROgold&theme=default&show_icons=true&hide_border=false&count_private=true)
 ![HEROgold's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HEROgold&theme=default&show_icons=true&hide_border=false&layout=compact)
 <!--
 **HEROgold/HEROgold** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
