@@ -1,4 +1,4 @@
-![TEXT](github-readme-stats.vercel.app/api?username=HEROgold&show_icons=true&theme=cobalt&show=discussions_started,prs_merged)
+![](github-readme-stats.vercel.app/api?username=HEROgold&show_icons=true&theme=cobalt&show=discussions_started,prs_merged)
 
 <!--
 **HEROgold/HEROgold** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
